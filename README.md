@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dale, a MERN stack web developer and recent WGU graduate (B.S. Software Development, 2021.)
-- 📫 You can reach me at: bumgardner.dale@gmail.com
 
 <!---
 DaleDoesDev/DaleDoesDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
